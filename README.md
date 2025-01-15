@@ -50,8 +50,3 @@ Here you can get guidance of exercises, you want to know about. Just search with
 
 and many more, including code architecture and reusability
 
-## <a name="links">🔗 Links</a>
-
-- [Live Website](https://fitness-monster.netlify.app/) 
-
-
